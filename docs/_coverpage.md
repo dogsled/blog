@@ -1,14 +1,15 @@
 ![logo](assets/images/framework/icon.svg)
 
-# 快到饭太稀の锅里来 <small>1.0</small>
+# 快到饭太稀の锅里来 <small>1.2</small>
 
-> 即使再小的帆，也能远航，积累归纳，织网捕鱼。
+> * 积累归纳，织网捕鱼，   
+> * 再小的帆，也能远航。
 
-[前端](Vue/)
-[后台](ionic/)
-[大数据](Flutter/)
-[人工智能](AI)
-[关于我](go)
+[前端](front/)
+[后台](background/)
+[大数据](bigdata/)
+[AI](AI)
+[关于我](about)
 
 
 

@@ -1,9 +1,13 @@
 - 前端
-  - [Vue](Vue/)
-  - [ionic](ionic/)
-  - [Flutter](Flutter/)
-  - [AI](AI/)
-  - [go](go/)
+  - **--移动端--**
+  - [android](AI/)
+  - [ios](go/)
+  - **---web---**
+  - [html](Vue/)
+  - [css](ionic/)
+  - [javascript](Flutter/)
+  - **--JS框架--**
+  - [vue]()
 
 - 后台
   - [java](java/)
@@ -11,9 +15,21 @@
   - [document](document/)
 
 - 大数据
-  - [gitHub](https://github.com/taoGod/extraordinarywen)
-  - [help](help/)
-  - [home]()
+  - [hadoop](https://github.com/taoGod/extraordinarywen)
+  - [mapreduce]()
+  - [spark]
+  - [flink]
+  - [hive](help/)
+  - [hbase]()
+  - [flume]
+  - [kafka]
+  - [zookeeper]
+
+- AI
+  - **监督**
+  -  [32]()
+  - **非监督**
+  - **半监督**
 
 - 关于我
 
